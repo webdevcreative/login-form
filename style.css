@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+:root {
+  --primary-color: #111727;
+  --secondary-color: #7f8289;
+  --bg-color: #e7e8ec;
+  --border-color: rgba(0, 0, 0, 0.2);
+}
